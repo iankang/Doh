@@ -2,4 +2,9 @@
     <string name="app_name">Doh</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab">Add Income entity</string>
+    <string name="add_entity_hint">Enter Income Name</string>
+    <string name="fin_entity_start_date">dd/mm/yy</string>
+    <string name="fin_entity_end_date">dd/mm/yy</string>
+    <string name="fin_income">Income</string>
 </resources>
